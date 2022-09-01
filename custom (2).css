@@ -1,0 +1,66 @@
+html, body {
+    font-family: 'Montserrat', sans-serif;!important;
+}
+.card-title {
+    font-size: 1rem!important;
+    font-weight: 400!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(34 34 34)!important;
+}
+.navbar-nav .nav-link {
+    font-weight: 400!important;
+}
+.home-categories .card .fa {
+    color: #5684e1!important;
+}
+.galleryTitle {
+    font-size: 1rem!important;
+}
+@media all and (min-width:50px) and (max-width: 613px) {
+	.col-6 {
+    flex: 0 0 auto;
+	}
+	.btn-group-lg>.btn, .btn-lg {
+    width: 100%!important;
+	}
+	.nav {
+    display: none;
+	}
+	.breadcrumb {
+    display: none;
+	}
+}
+@media all and (min-width:50px) and (max-width: 991px) {
+	.nav {
+    display: none;
+	}
+
+} 
+.payment-method {
+    margin: 25px 0px 25px 0px!important;
+}
+.list-group-item {
+    margin: 10px 0px 10px 0px!important;
+}
+.reserve-not-met .text-success {
+    color: #00eb48!important;
+}
+.object-item .card-badges {
+    z-index: -10;
+}
+.categories {
+    display:none
+}
+.breadcrumb {
+    display: none;
+}
+.bg-info {
+    background-color: #1c1c1c!important;
+}
+.navbar-brand {
+    max-width: 100%;
+    height: auto;
+    width: 200px;
+}
+
