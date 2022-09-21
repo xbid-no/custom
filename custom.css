@@ -64,7 +64,8 @@ html, body {
     width: 200px;
 }
 
-@media (min-width: 1200px)
+@media (min-width: 1200px) {
 .col-xl-3 {
     width: 33.333%;
+}
 }
