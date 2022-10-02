@@ -77,9 +77,6 @@ html, body {
   -o-transition: all .3s ease;
   -webkit-transition: all .3s ease;
 }
-.panel-pricing:hover {
-  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
-}
 .panel-pricing .panel-heading {
   padding: 20px 10px;
 }
