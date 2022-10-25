@@ -107,7 +107,7 @@ html, body {
 ------ timer ------
 
 .galleryTime--active {
-    font-weight: 600;
-    font-family: monospace;
-    float: right;
+    font-weight: 600!important;;
+    font-family: monospace!important;;
+    float: right!important;;
 }
