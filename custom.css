@@ -103,11 +103,8 @@ html, body {
   padding: 20px;
   margin: 0px;
 }
-
------- timer ------
-
 .galleryTime--active {
-    font-weight: 600!important;;
-    font-family: monospace!important;;
-    float: right!important;;
+    font-weight: 600!important;
+    font-family: monospace!important;
+    float: right!important;
 }
