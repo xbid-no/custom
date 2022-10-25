@@ -108,3 +108,13 @@ html, body {
     font-family: monospace!important;
     float: right!important;
 }
+.galleryData--title {
+    font-size: 12px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.timeLabel, .qtyLabel {
+    float: right;
+    font-weight: 600;
+}
