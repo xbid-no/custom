@@ -118,3 +118,6 @@ html, body {
     float: right;
     font-weight: 600;
 }
+.badge {
+    text-align: left;
+}
