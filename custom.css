@@ -125,5 +125,5 @@ html, body {
     aspect-ratio: 16/9 !important;
 }
 .card-click {
-    border: 0.01em solid #97979733;
+    border: 0.01em solid #97979733 !important;
 }
