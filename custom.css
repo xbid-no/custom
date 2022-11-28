@@ -122,5 +122,5 @@ html, body {
     text-align: left;
 }
 .galleryImage {
-    aspect-ratio: 16/9;
+    aspect-ratio: 16/9 !important;
 }
