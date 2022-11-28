@@ -121,3 +121,6 @@ html, body {
 .badge {
     text-align: left;
 }
+.galleryImage {
+    aspect-ratio: 16/9;
+}
