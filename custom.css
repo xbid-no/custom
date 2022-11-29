@@ -123,6 +123,9 @@ html, body {
 }
 .galleryImage {
     aspect-ratio: 16/9 !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .card-click {
     border: 0.01em solid #97979733 !important;
