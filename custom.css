@@ -1,6 +1,18 @@
 html, body {
     font-family: 'Montserrat', sans-serif;!important;
 }
+@media (min-width: 1400px)
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1400px;
+}
+.card1 {
+  padding: 10px 10px 10px 10px;
+  margin-top: -0.8em;
+  background-color: #fff !important;
+  box-shadow: var(--shadow-default);
+  border-radius: var(--border-radius);
+  border-color: transparent;
+}
 .card-title {
     font-size: 1rem!important;
     font-weight: 400!important;
