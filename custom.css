@@ -61,9 +61,7 @@ html, body {
 .reserve-not-met .text-success {
     color: #00eb48!important;
 }
-.object-item .card-badges {
-    z-index: -10;
-}
+
 .categories {
     display:none
 }
