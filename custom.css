@@ -143,3 +143,6 @@ html, body {
 .card-click {
     border: 0.01em solid #97979733 !important;
 }
+.galleryData--title {
+    display: block!important;
+}
