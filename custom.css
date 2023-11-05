@@ -146,15 +146,12 @@ html, body {
 .galleryData--title {
     display: block!important;
 }
-@media (min-width: 576px)
-.col-sm-4 {
-    width: 50%;
-}
 @media only screen and (max-width: 768px) { /* or 480px if you want to target smaller devices */
-  .galleryUnit {
-    position: relative;
-    margin-bottom: 1rem;
+  .galleryUnitm {
     max-width: 300px;
   }
 }
-
+.galleryUnitm {
+    position: relative;
+    margin-bottom: 1rem;
+  }
