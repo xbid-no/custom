@@ -158,3 +158,6 @@ html, body {
 .galleryUnitm .galleryImage img {
     filter: grayscale(100%);
 }
+:root {
+    --shadow-default: 0px 8px 12px rgb(135 135 135 / 6%)!important;
+}
