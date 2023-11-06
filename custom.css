@@ -155,3 +155,6 @@ html, body {
     position: relative;
     margin-bottom: 1rem;
   }
+.galleryUnitm .galleryImage img {
+    filter: grayscale(100%);
+}
